@@ -1,0 +1,21 @@
+{
+  "name": "playwright-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0",
+    "@types/pg": "^8.15.5",
+    "dotenv": "^17.2.2",
+    "monocart-reporter": "^2.9.21"
+  },
+  "dependencies": {
+    "pg": "^8.16.3"
+  }
+}
